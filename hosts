@@ -26,9 +26,7 @@
 127.0.0.1 kubernetes.docker.internal
 # End of section
 
-#172.30.1.72 gerrit.roboetech.com
-#172.30.1.72 jenkins.roboetech.com
-#172.30.1.72 phpldapadmin.roboetech.com
-
 172.30.1.72 reveka.roboetech.com
-172.30.1.72	app.roboetech.com
+172.30.1.58	app.roboetech.com
+172.30.1.58	db.roboetech.com
+172.30.1.58	api.roboetech.com
